@@ -118,7 +118,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
-```javascript
+```
 config
 |-- build.js                        # 打包预览脚本
 |-- ie8-polyfills.js                # IE8兼容包配置
